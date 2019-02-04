@@ -1,13 +1,13 @@
 ----------------------------------------------------------------
-Tue Oct 23 17:23:09 EDT 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0166-a2cf-5920-00000f885958 
-on database directory /Users/siddhant/Documents/Old laptop files/Siddhant/siddhant/RU/3rd sem/Massive Data Retrieval/Final Project/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@f675fc2 
+Tue Dec 18 02:05:05 EST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0167-c021-e065-000004a29eb0 
+on database directory /Users/siddhant/Documents/Old laptop files/Siddhant/siddhant/RU/3rd sem/Massive Data Retrieval/Final Project/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@6d592827 
 Loaded from file:/Users/siddhant/SPARK/spark-2.3.2-bin-hadoop2.7/jars/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_171-b11
 user.dir=/Users/siddhant/Documents/Old laptop files/Siddhant/siddhant/RU/3rd sem/Massive Data Retrieval/Final Project
 os.name=Mac OS X
 os.arch=x86_64
-os.version=10.14
+os.version=10.14.1
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
